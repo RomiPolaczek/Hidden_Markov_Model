@@ -20,9 +20,9 @@ while True:
         num_pow = pow(int(num), 2)
         sum_num_pow += num_pow
 
-average = float(sum)/count_all_nums
+average = float(sum) / count_all_nums
 averagePow = pow(average, 2)
-variance = float(sum_num_pow - (count_all_nums * averagePow))/count_all_nums
+variance = float(sum_num_pow - (count_all_nums * averagePow)) / count_all_nums
 
 print("The average is:", average)
 print("The variance is:", variance)
@@ -39,10 +39,10 @@ def binary_search(left, right):
         with open("DataFile.txt", "r") as data_file:
             line = data_file.readline()
             for line in data_file:
-               string_num = line.split()
-               for num in string_num:
-                   if mid >= int(num):
-                       count_smaller_eq_mid += 1
+                string_num = line.split()
+                for num in string_num:
+                    if mid >= int(num):
+                        count_smaller_eq_mid += 1
         if float(count_smaller_eq_mid) / count_all_nums >= 0.6:
             right = mid
         else:

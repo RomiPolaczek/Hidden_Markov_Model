@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff05fbd0-c723-4018-a024-c8ad17adefa3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ff05fbd0-c723-4018-a024-c8ad17adefa3" name="Changes" comment="final version&#10;change recursion to loop">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex05.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex05.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +35,7 @@
   }
 }]]></component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
@@ -74,6 +72,31 @@
       <option name="presentableId" value="Default" />
       <updated>1715863780734</updated>
     </task>
+    <task id="LOCAL-00001" summary="finish part 1">
+      <option name="closed" value="true" />
+      <created>1716140527711</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716140527711</updated>
+    </task>
+    <task id="LOCAL-00002" summary="finish part 2">
+      <option name="closed" value="true" />
+      <created>1716223825509</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716223825509</updated>
+    </task>
+    <task id="LOCAL-00003" summary="final version&#10;change recursion to loop">
+      <option name="closed" value="true" />
+      <created>1716504332470</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716504332470</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,7 +112,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="finish part 1" />
+    <MESSAGE value="finish part 2" />
+    <MESSAGE value="final version&#10;change recursion to loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="final version&#10;change recursion to loop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
